@@ -9,6 +9,7 @@
 
 <body>
     <h1>HELLO WORLD!!!</h1>
+    <h2>Benvenuto, {{ $surname . ' ' . $name }} </h2>
 </body>
 
 </html>
